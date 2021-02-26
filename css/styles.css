@@ -83,12 +83,14 @@ padding: 5% 0;
     font-size: 25px;
     padding-top: 5px;
     height: 50px;
+    width: 100%;
 }
 
 .social {
     background-color: rgb(24, 32, 41);
     height: 100px;
     padding-top: 3%;
+    width: 100%;
 }
 
 .base {
