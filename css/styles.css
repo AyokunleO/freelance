@@ -1,0 +1,122 @@
+
+
+body{
+    font-family: 'raleway', sans-serif; 
+}
+
+.navbar{
+    height: 80px;
+    width: 100%;
+}
+
+.navbar-light, .bg-light{
+    background-color:#fff !important;
+}
+
+.slideshow {
+    background-image: url(../images/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    color: white;
+    padding-top: 10%;
+}
+
+.vision {
+    background-image: url(../images/snow.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    color: #fff;
+    font-size: 20px;
+}
+.vision .push {
+    padding: 6%;
+}
+
+.agency {
+background-color: rgb(252, 247, 247);
+padding: 5% 0;
+}
+.red {
+    color: rgba(250, 60, 60, 0.904);
+}
+
+.button-bg{
+    background-color: rgb(245, 10, 10);
+    border: 2px solid rgb(245, 10, 10);
+    padding: 7px 15px !important;
+    margin: 0 10px;
+    font-size: 18px;
+    height: 45px;
+    width: 160px;
+    color: white !important;
+    border-radius: 5px;
+}
+
+.btn-trans {
+    background-color: transparent !important;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    color: white;
+    padding: 7px 20px !important;
+}
+
+.brag {
+    background-image: url(../images/sr-bottom.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+    background-repeat: no-repeat;
+    margin-top: 5%;
+}
+
+.slide {
+    padding-top: 5%;
+}
+
+.Quote {
+    background-color: rgb(20, 51, 87);
+    color: white;
+    font-size: 25px;
+    padding-top: 5px;
+    height: 50px;
+}
+
+.social {
+    background-color: rgb(24, 32, 41);
+    height: 100px;
+    padding-top: 3%;
+}
+
+.base {
+    list-style-type: none;
+    margin-bottom: 5%;
+}
+
+.pad-bg {
+    padding: 0 40px;
+}
+
+.pad-logo {
+    padding-top: 10%;
+}
+
+.address {
+    background-color: rgba(250, 60, 60, 0.904);
+    color: #fff;
+    margin-bottom: 5%;
+    padding-top: 10px;
+}
+
+.blue-bg {
+    background-color: navy;
+    color: #fff;
+    transform: rotate(45deg);
+}
+.red-bg {
+    background-color: red;
+    color: #fff;
+}
